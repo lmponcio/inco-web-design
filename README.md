@@ -18,7 +18,7 @@ In my case, I was designing a portfolio website, so I decided to show projects i
 ## Usability testing
 Testing looks simple, and it is challenging. It is very easy to accidentally provide too much information to the user, or unintentionally guide them instead of letting them interact with the product.
 
-Through testing I learned if users could understand what the site was about - other part of the test was to ask users to get in contact with me.
+Through testing I learned if users could understand what the site was about. Other part of the test was to ask users to get in contact with me.
 
 <img src="./media/contact.jpeg" width="400" />
 
