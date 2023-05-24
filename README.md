@@ -24,7 +24,7 @@ Through testing I learned if users could understand what the site was about. Oth
 
 ## Conclusion
 
-The [Get into Tech course](https://www.inco.org.au/get-into-tech) was a great experience for me. Even I already know how to code scripts, this course broaden my horizons - I learned a bit a bout UX/UI, Marketing, Data Engineering, Networking, Career paths, and more. 
+The [Get into Tech course](https://www.inco.org.au/get-into-tech) was a great experience for me. Even I already know how to code scripts, this course broaden my horizons - I learned a bit about UX/UI, Marketing, Data Engineering, Networking, Career paths, and more. 
 
 In the end, I decided not to publish the web page I designed because I already have GitHub to showcase my work. At least this small repository tells about my experience and the learning I got from it.
 
