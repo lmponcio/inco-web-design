@@ -9,7 +9,7 @@ I did multiple iterations of mood boards. It was my first time doing a visual br
 <img src="./media/mood3.jpeg" width="400" />
 
 ## The Home Page and a Call to Action
-Once of the main concepts that I always come back to is "people look at web pages for very little time, so we want to choose carefully what we put in the home page". 
+One of the main concepts that I always come back to is "people look at web pages for very little time, so we want to choose carefully what we put in the home page". 
 
 In my case, I was designing a portfolio website, so I decided to show projects in the home page. My first design maintained the mood in the whole page, with no button calling the attention, and with no bright colors anywhere. The page looked good, but it didn't prompt you to do anything - that's when I learned what a "Call to Action" is. I decided that the link to see the project would have a brighter color, helping the user to know where to click next. 
 
